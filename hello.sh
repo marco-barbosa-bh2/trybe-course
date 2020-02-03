@@ -14,12 +14,12 @@ read idade
 
 if [ $idade -lt 18 ]
 then 
-   echo "Você é Bebê"
+   echo "Você é Menor de idade"
 elif [ $idade -eq 18 ]
 then
-  echo "Parabéns, já pode ser preso!"
+  echo "Parabéns, você completou 18 anos"
 else 
-   echo "Você é Marmanjo / Marmanja"
+   echo "Você é maior de idade"
 fi
 
 
