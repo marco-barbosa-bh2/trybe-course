@@ -1,5 +1,6 @@
 #!/bin/bash
-# Eu sou Tryber e dedicado.
+# Vou ter muito sucesso na programaçao!!!
+
 # echo "Shell Script é demais!"
 
 var1="Shell Script com variáveis é demais!"
