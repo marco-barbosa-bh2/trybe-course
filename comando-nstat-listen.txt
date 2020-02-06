@@ -1,0 +1,6 @@
+tcp        0      0 localhost:30800         0.0.0.0:*               OUÇA      
+tcp        0      0 localhost:30900         0.0.0.0:*               OUÇA      
+tcp        0      0 localhost:domain        0.0.0.0:*               OUÇA      
+tcp        0      0 localhost:ipp           0.0.0.0:*               OUÇA      
+tcp6       0      0 [::]:http               [::]:*                  OUÇA      
+tcp6       0      0 ip6-localhost:ipp       [::]:*                  OUÇA      

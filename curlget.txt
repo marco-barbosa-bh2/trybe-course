@@ -1,0 +1,18 @@
+curl --get "firstName = Marco" https://httpbin.org/anything
+curl: (3) Host name 'firstName = Marco' contains bad letter
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.58.0", 
+    "X-Amzn-Trace-Id": "Root=1-5e3c8638-3a79cf97c4d557e3d42006bf"
+  }, 
+  "json": null, 
+  "method": "GET", 
+  "origin": "201.80.14.230", 
+  "url": "https://httpbin.org/anything"
+}
