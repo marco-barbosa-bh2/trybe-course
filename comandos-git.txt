@@ -1,0 +1,8 @@
+Comandos git
+
+git init //usa para iniciar uma pasta nova, caso já tenha sido iniciada não precisa
+
+git remote -v //saiba qual pasta você está salvando
+git add .     //adiciona as alterações
+git commit -m "Exercicios Modulo 2 - Internet Parte 2" //cria um novo commit
+git push origin master //Salva as alterações no GitHub
