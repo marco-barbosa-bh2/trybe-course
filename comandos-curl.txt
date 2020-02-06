@@ -1,0 +1,14 @@
+GET
+curl -X GET https://httpbin.org/anything -d 'firstname=Marco'
+
+POST
+curl -X POST https://httpbin.org/anything -d 'lastname=Barbosa'
+
+Post via JSON (variáveis)
+curl -d '{"escola": "Trybe"}' -H "Content-Type: application/json" -X POST https://httpbin.org/anything
+
+PUT
+curl -X PUT https://httpbin.org/anything -d 'lastname=Barbosa&firstname=Marco'
+
+DELETE
+curl -X DELETE https://httpbin.org/anything -d 'lastname&firstname'

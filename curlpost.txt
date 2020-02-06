@@ -1,22 +1,20 @@
-curl --data "lastName = Barbosa" https://httpbin.org/anything
 {
   "args": {}, 
   "data": "", 
   "files": {}, 
   "form": {
-    "lastName ": " Barbosa"
+    "lastname": "Barbosa"
   }, 
   "headers": {
     "Accept": "*/*", 
-    "Content-Length": "18", 
+    "Content-Length": "16", 
     "Content-Type": "application/x-www-form-urlencoded", 
     "Host": "httpbin.org", 
     "User-Agent": "curl/7.58.0", 
-    "X-Amzn-Trace-Id": "Root=1-5e3c85d4-7409bc4475494bbe076eed3a"
+    "X-Amzn-Trace-Id": "Root=1-5e3c9c8d-7395ca6da8ba20b2b35da936"
   }, 
   "json": null, 
   "method": "POST", 
   "origin": "201.80.14.230", 
   "url": "https://httpbin.org/anything"
 }
-
