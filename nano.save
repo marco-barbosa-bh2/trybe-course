@@ -1,0 +1,1002 @@
+ 1008 clear
+ 1009 ./hello.sh
+ 1010 clear
+ 1011 ./hello.sh
+ 1012 clear
+ 1013 ./hello.sh
+ 1014 clear
+ 1015 ./hello.sh
+ 1016 clear
+ 1017 ./hello.sh
+ 1018 clear
+ 1019 touch marco.png
+ 1020 mv marco.png ./$(date +%d/%m/%y)
+ 1021 mv marco.png $(date +%d/%m/%y)
+ 1022 mv marco.png $(date +%d/%m/%y)clear
+ 1023 clear
+ 1024 ls
+ 1025 rm '='
+ 1026 ls
+ 1027 clear
+ 1028 mv ./marco.png $(date +%d/%m/%y)
+ 1029 cp ./marco.png $(date +%d/%m/%y).png
+ 1030 cp marco.png $(date +%d/%m/%y).png
+ 1031 cp marco.png ./$(date +%d/%m/%y).png
+ 1032 clear
+ 1033 ls
+ 1034 cp ./marco.png ./marco2.png
+ 1035 ls
+ 1036 cp ./marco.png ./"date +%a/%m".png
+ 1037 cp marco.png ./$(date +%d/%m).png
+ 1038 cp marco.png ./ $(date +%d/%m).png
+ 1039 cp ./marco.png $(date +%d/%m).png
+ 1040 mv ./marco.png $(date +%d/%m).png
+ 1041 mv marco.png $(date +%d/%m).png
+ 1042 mv marco.png ~/.$(date +%d/%m).png
+ 1043 mv marco.png ~/. $(date +%d/%m).png
+ 1044 mv marco.png ~/unix_tests/scripts/ $(date +%d/%m).png
+ 1045 mv marco.png ~/unix_tests/scripts/$(date +%d/%m).png
+ 1046 mv marco.png ~/unix_tests/scripts/ $(date +%d%m).png
+ 1047 cp marco.png ~/unix_tests/scripts/ $(date +%d%m).png
+ 1048 mv marco.png ~/unix_tests/scripts/$(date +%d%m).png
+ 1049 ls
+ 1050 touch marco.png
+ 1051 clear
+ 1052 mv marco.png $(date +%Y-%m-%d-marco).png
+ 1053 ls
+ 1054 rm marco2.png
+ 1055 cler
+ 1056 clear
+ 1057 ls
+ 1058 touch script_trybe.sh
+ 1059 chmod +x script_trybe.sh
+ 1060 ./script_trybe.sh
+ 1061 $hostname
+ 1062 echo $hostname
+ 1063 echo $HOSTNAME
+ 1064 clear
+ 1065 ./script_trybe.sh
+ 1066 clear
+ 1067 ./script_trybe.sh
+ 1068 clear
+ 1069 ./script_trybe.sh
+ 1070 clear
+ 1071 ./script_trybe.sh
+ 1072 chmod +x script_trybe_02.sh
+ 1073 clear
+ 1074 ./script_trybe_02.sh
+ 1075 chmod +x script_trybe_03.sh
+ 1076 ./script_trybe_03.sh
+ 1077 clear
+ 1078 ./script_trybe_03.sh
+ 1079 clear
+ 1080 ./script_trybe_03.sh
+ 1081 clear
+ 1082 ./script_trybe_03.sh
+ 1083 clear
+ 1084 pwd
+ 1085 ./script_trybe_03.sh
+ 1086 clear
+ 1087 ./script_trybe_03.sh
+ 1088 clear
+ 1089 ./script_trybe_03.sh
+ 1090 clear
+ 1091 ./script_trybe_03.sh
+ 1092 clear
+ 1093 ./script_trybe_03.sh
+ 1094 clear
+ 1095 ./script_trybe_03.sh
+ 1096 clear
+ 1097 ./script_trybe_03.sh
+ 1098 clear
+ 1099 ./script_trybe_03.sh
+ 1100 clear
+ 1101 ./script_trybe_03.sh
+ 1102 clear
+ 1103 ./script_trybe_03.sh
+ 1104 clear
+ 1105 ./script_trybe_03.sh
+ 1106 clear
+ 1107 chmod +x script_trybe_04.sh
+ 1108 ./script_trybe_04.sh
+ 1109 clear
+ 1110 ./script_trybe_04.sh
+ 1111 clear
+ 1112 ./script_trybe_04.sh
+ 1113 clear
+ 1114 ./script_trybe_04.sh
+ 1115 clear
+ 1116 chmod +x script_trybe_05.sh
+ 1117 ./script_trybe_05.sh
+ 1118 clear
+ 1119 ./script_trybe_05.sh
+ 1120 clear
+ 1121 ./script_trybe_05.sh
+ 1122 clear
+ 1123 ./script_trybe_05.sh
+ 1124 clear
+ 1125 ./script_trybe_05.sh
+ 1126 clear
+ 1127 ./script_trybe_05.sh
+ 1128 clear
+ 1129 ./script_trybe_05.sh
+ 1130 clear
+ 1131 ./script_trybe_05.sh
+ 1132 clear
+ 1133 ./script_trybe_05.sh
+ 1134 clear
+ 1135 clear
+ 1136 ./script_trybe_05.sh
+ 1137 clear
+ 1138 ./script_trybe_05.sh
+ 1139 clear
+ 1140 ./script_trybe_05.sh
+ 1141 clear
+ 1142 ./script_trybe_05.sh
+ 1143 clear
+ 1144 ./script_trybe_05.sh
+ 1145 clear
+ 1146 ./script_trybe_05.sh /home/marco/unix_tests/scripts/hello.sh
+ 1147 ./script_trybe_05.sh "/home/marco/unix_tests/scripts/hello.sh"
+ 1148 clear
+ 1149 ./script_trybe_05.sh /home/marco/unix_tests/scripts/hello.sh
+ 1150 clear
+ 1151 ./script_trybe_05.sh /home/marco/unix_tests/scripts/hello.sh
+ 1152 ./script_trybe_05.sh /home/marco/unix_tests/scripts/
+ 1153 clear
+ 1154 ./script_trybe_05.sh /home/marco/unix_tests/scripts/
+ 1155 clear
+ 1156 ./script_trybe_05.sh /home/marco/unix_tests/scripts/hello.sh
+ 1157 clear
+ 1158 ./script_trybe_05.sh /home/marco/unix_tests/scripts/hello.sh
+ 1159 clear
+ 1160 ./script_trybe_05.sh /home/marco/unix_tests/scripts/hello.sh
+ 1161 clear
+ 1162 ./script_trybe_05.sh /home/marco/unix_tests/scripts/hello.sh
+ 1163 clear
+ 1164 ./script_trybe_05.sh /home/marco/unix_tests/scripts/hello.sh
+ 1165 ./script_trybe_05.sh /home/marco/unix_tests/scripts/hello.sh /home/marco/unix_tests/scripts/
+ 1166 clear
+ 1167 ./script_trybe_05.sh /home/marco/unix_tests/scripts/hello.sh /home/marco/unix_tests/scripts/
+ 1168 clear
+ 1169 chmod +x script_trybe_06.sh
+ 1170 ls
+ 1171 clear
+ 1172 ls --help
+ 1173 clear
+ 1174 ls
+ 1175 ls -la|grep -e "^-"|wc -l
+ 1176 clear
+ 1177 chmod +x script_trybe_06.sh
+ 1178 ./script_trybe_06.sh /home/marco/unix_tests/scripts/hello.sh
+ 1179 ./script_trybe_06.sh /home/marco/unix_tests/scripts/
+ 1180 clear
+ 1181 ./script_trybe_06.sh /home/marco/unix_tests/scripts/
+ 1182 clear
+ 1183 ls
+ 1184 ls -la|grep -e "^-"|wc -l
+ 1185 ls -la|grep -e |wc -l
+ 1186 grep -e --help
+ 1187 grep --help
+ 1188 clear
+ 1189 wc -l
+ 1190 ls -l | wc -l
+ 1191 ls -l
+ 1192 clear
+ 1193 ./script_trybe_06.sh /home/marco/unix_tests/scripts/
+ 1194 clear
+ 1195 ./script_trybe_06.sh /home/marco/unix_tests/scripts/
+ 1196 clear
+ 1197 ./script_trybe_06.sh /home/marco/unix_tests/scripts/
+ 1198 clear
+ 1199 ./script_trybe_06.sh /home/marco/unix_tests/scripts/
+ 1200 chmod +x script_trybe_07.sh
+ 1201 clear
+ 1202 ls
+ 1203 ./script_trybe_07.sh
+ 1204 ls -a | grep .png
+ 1205 clear
+ 1206 ./script_trybe_07.sh
+ 1207 clear
+ 1208 ./script_trybe_07.sh
+ 1209 mv 2020-01-31-marco.png marco_01.png
+ 1210 ls
+ 1211 clear
+ 1212 mv 3101.png marco_02.png
+ 1213 ls
+ 1214 clear
+ 1215 ./script_trybe_07.sh
+ 1216 clear
+ 1217 ls
+ 1218 ./script_trybe_07.sh
+ 1219 ls
+ 1220 clear
+ 1221 ./script_trybe_07.sh
+ 1222 clear
+ 1223 ./script_trybe_07.sh
+ 1224 clear
+ 1225 ./script_trybe_07.sh
+ 1226 clear
+ 1227 ./script_trybe_07.sh
+ 1228 clear
+ 1229 ./script_trybe_07.sh
+ 1230 clear
+ 1231 ./script_trybe_07.sh
+ 1232 ls
+ 1233 mv 2020-01-31-marco_01.png marco_01.png
+ 1234 mv 2020-01-31-marco_02.png marco_02.png
+ 1235 clear
+ 1236 ls
+ 1237 ./script_trybe_07.sh
+ 1238 mv 2020-01-31-marco_01.png marco_01.png
+ 1239 mv 2020-01-31-marco_02.png marco_02.png
+ 1240 clear
+ 1241 ls
+ 1242 clear
+ 1243 ./script_trybe_07.sh
+ 1244 ls
+ 1245 chmod +x script_trybe_08.sh
+ 1246 ls
+ 1247 clear
+ 1248 ./script_trybe_06.sh /home/marco/unix_tests/scripts/ .png .pdf
+ 1249 ./script_trybe_08.sh /home/marco/unix_tests/scripts/ .png .pdf
+ 1250 clear
+ 1251 ./script_trybe_08.sh /home/marco/unix_tests/scripts/ .png .pdf
+ 1252 ls
+ 1253 clear
+ 1254 ./script_trybe_08.sh /home/marco/unix_tests/scripts/ .png .pdf
+ 1255 clear
+ 1256 ./script_trybe_08.sh /home/marco/unix_tests/scripts/ .png .pdf
+ 1257 clear
+ 1258 ./script_trybe_08.sh /home/marco/unix_tests/scripts/ .png .pdf
+ 1259 clear
+ 1260 ./script_trybe_08.sh /home/marco/unix_tests/scripts/ .png
+ 1261 ls
+ 1262 mv 2020-02-01-2020-01-31-marco_01.png marco_01.png
+ 1263 mv 2020-02-01-2020-01-31-marco_02.png marco_02.png
+ 1264 clear
+ 1265 ls
+ 1266 clear
+ 1267 ./script_trybe_08.sh /home/marco/unix_tests/scripts/ .png
+ 1268 ls
+ 1269 clear
+ 1270 snap install spotify
+ 1271 clear
+ 1272 exit
+ 1273 sudo apt-get install lm-sensor
+ 1274 sudo sensors-detect
+ 1275 sudo apt-get install lm-sensor
+ 1276 sudo apt-get install lm-sensors
+ 1277 clear
+ 1278 sudo sensors-detect
+ 1279 clear
+ 1280 sudo sensors-detect
+ 1281 sudo sensors
+ 1282 clear
+ 1283 sudo sensors-detect
+ 1284 clear
+ 1285 sudo sensors
+ 1286 exit
+ 1287 sudo watch sensors
+ 1288 clear
+ 1289 exit
+ 1290 sudo apt-get install git-all
+ 1291 clear
+ 1292 git config --global user.name "Marco Barbosa"
+ 1293 git config --global user.email marco.meireles.b@gmail.com
+ 1294 git --version
+ 1295 git config --list
+ 1296 vim
+ 1297 nano
+ 1298 git config --global core.editor nano
+ 1299 git config --list
+ 1300 clear
+ 1301 ls -al ~/.ssh
+ 1302 sudo ls -al ~/.ssh
+ 1303 ls -al ~/.ssh
+ 1304 ssh-keygen -t rsa -b 4096 -C "marco.meireles.b@gmail.com"
+ 1305 clear
+ 1306 eval "$(ssh-agent -s)"
+ 1307 Agent pid 59566
+ 1308 eval "$(ssh-agent -s)"
+ 1309 ls
+ 1310 ssh-add ~/.ssh/id_rsa
+ 1311 sudo apt-get install xclip
+ 1312 clear
+ 1313 xclip -sel clip < ~/.ssh/id_rsa.pub
+ 1314 ls
+ 1315 pwd
+ 1316 cd unix_tests
+ 1317 ls
+ 1318 mkdir git
+ 1319 ls
+ 1320 cd git
+ 1321 clear
+ 1322 pwd
+ 1323 git init
+ 1324 git status
+ 1325 touch readme.md
+ 1326 git add readme.md
+ 1327 git commit -m "my first commit"
+ 1328 git remote add origin git@github.com:marco-barbosa-bh2/pro.git
+ 1329 git remote -v
+ 1330 git push origin master
+ 1331 cat >Hello-World.txt
+ 1332 ls
+ 1333 clear
+ 1334 pull request
+ 1335 git pull
+ 1336 ls
+ 1337 git add Hello-World.txt
+ 1338 git pull request
+ 1339 ls
+ 1340 cd ..
+ 1341 clear
+ 1342 ls
+ 1343 cp scripts my-shell-scripts
+ 1344 ls
+ 1345 mkdir my-shell-scripts
+ 1346 cp -r scripts/ my-shell-scripts/
+ 1347 ls
+ 1348 cd my-shell-scripts/
+ 1349 ls
+ 1350 cd scripts
+ 1351 ls
+ 1352 mv *.sh /..
+ 1353 sudo mv *.sh /..
+ 1354 clear
+ 1355 ls
+ 1356 cd ..
+ 1357 ls
+ 1358 cd ..
+ 1359 ls
+ 1360 cd ..
+ 1361 ls
+ 1362 cd unix_tests
+ 1363 ls
+ 1364 cd my-shell-scripts/
+ 1365 clear
+ 1366 ls
+ 1367 git int
+ 1368 git init
+ 1369 touch README.md
+ 1370 ls
+ 1371 git add .
+ 1372 git commit -m "Initial commit"
+ 1373 git remote -v
+ 1374 clear
+ 1375 git remote add origin git@github.com:marco-barbosa-bh2/trybe-course.git
+ 1376 git remote -v
+ 1377 git push origin master
+ 1378 clear
+ 1379 ls
+ 1380 nano readme.md
+ 1381 ls
+ 1382 nano README.md
+ 1383 git commit -m "Alimentando o README"
+ 1384 nano README.md
+ 1385 git add .
+ 1386 git commit -m "Alimentando o README"
+ 1387 git push origin master
+ 1388 clear
+ 1389 exit
+ 1390 ls
+ 1391 ps
+ 1392 bg
+ 1393 exit
+ 1394 fg
+ 1395 exit
+ 1396 nano README.md
+ 1397 git add .
+ 1398 git commit -m "Alimentando o README p2"
+ 1399 git push origin master
+ 1400 clear
+ 1401 nano README.md
+ 1402 git add .
+ 1403 git init
+ 1404 git add .
+ 1405 git commit -m "Alimentando o README p3"
+ 1406 git push origin master
+ 1407 clear
+ 1408 sensors
+ 1409 watch sensors
+ 1410 clear
+ 1411 exit
+ 1412 pwd
+ 1413 cd ..
+ 1414 ls
+ 1415 clear
+ 1416 cd git
+ 1417 ls
+ 1418 clear
+ 1419 git clone git://github.com/alebcay/awesome-shell
+ 1420 clear
+ 1421 ls
+ 1422 git clone https://github.com/marco-barbosa-bh2/trybe-course
+ 1423 ls
+ 1424 clear
+ 1425 ls
+ 1426 cd trybe-course
+ 1427 ls
+ 1428 cd ..
+ 1429 clear
+ 1430 git log
+ 1431 cd ..
+ 1432 ls
+ 1433 clear
+ 1434 cd my-shell-scripts/
+ 1435 ls
+ 1436 git log
+ 1437 clear
+ 1438 cd ..
+ 1439 ls
+ 1440 cd gt
+ 1441 cd git
+ 1442 clear
+ 1443 ls
+ 1444 touch .gitignore
+ 1445 ls -l
+ 1446 ls -la
+ 1447 clear
+ 1448 nano .gitignore
+ 1449 clear
+ 1450 git config --global core.excludesfile ~/.gitignore_global
+ 1451 cd ~/.
+ 1452 ls -al
+ 1453 ls
+ 1454 ls -a
+ 1455 touch ~/.gitignore_global
+ 1456 ls -a
+ 1457 clear
+ 1458 ls -al ~/.
+ 1459 nano ~/.gitignore_global
+ 1460 clear
+ 1461 ls
+ 1462 cd git
+ 1463 cd unix_tests/
+ 1464 clear
+ 1465 ls
+ 1466 cd git
+ 1467 nano .gitignore
+ 1468 git config --global core.excludesfile ~/.gitignore_global
+ 1469 nano ~/.gitignore_global
+ 1470 clear
+ 1471 git remote -v
+ 1472 cd ..
+ 1473 ls
+ 1474 cd my-shell-scripts/
+ 1475 clear
+ 1476 git remote -v
+ 1477 clear
+ 1478 cp ~/unix_tests/git/.gitignore .
+ 1479 ls -a
+ 1480 clear
+ 1481 git fetch origin
+ 1482 git log
+ 1483 cler
+ 1484 clear
+ 1485 git branch -r
+ 1486 clear
+ 1487 watch sensors
+ 1488 clear
+ 1489 exit
+ 1490 lshw -C network
+ 1491 clear
+ 1492 lsusb
+ 1493 clear
+ 1494 sudo ifconfig
+ 1495 sudo iwconfig
+ 1496 clear
+ 1497 sudo lshw -C network
+ 1498 echo “options rtl8187 11n_disable=1? >> /etc/modprobe.d/rtl8187.conf
+ 1499 sudo echo “options rtl8187 11n_disable=1? >> /etc/modprobe.d/rtl8187.conf
+ 1500 sudo leafpad
+ 1501 clear
+ 1502 cd /
+ 1503 ls -r *8187.conf
+ 1504 ls -r /. *8187.conf
+ 1505 ls -r *8187.conf
+ 1506 cd etc
+ 1507 ls
+ 1508 cd modprobe.d
+ 1509 ls
+ 1510 nano iwlwifi.conf
+ 1511 cd ..
+ 1512 cd init.d
+ 1513 ls
+ 1514 cd ..
+ 1515 ls
+ 1516 ls --help
+ 1517 ls -R rtl8187.conf
+ 1518 ls -R rtl8187.*
+ 1519 ls -R rtl8187
+ 1520 ls -R *rtl8187
+ 1521 ls -R *8187*
+ 1522 ls -R *8187*.*
+ 1523 cd /
+ 1524 ls
+ 1525 ls -R *8187*.*
+ 1526 sudo lshw -C network
+ 1527 exit
+ 1528 ifconfig
+ 1529 sudo apt-get install net-tools
+ 1530 clear
+ 1531 ifconfig
+ 1532 iwconfig wlx0022433ce3f0 rate 1M
+ 1533 iwconfig wlx0022433ce3f0 rate 11M auto
+ 1534 sudo iwconfig wlx0022433ce3f0 rate 11M auto
+ 1535 sudo iwconfig wlx0022433ce3f0 rate 1M auto
+ 1536 sudo iwconfig wlx0022433ce3f0 rate 5.5M auto
+ 1537 sudo iwconfig wlx0022433ce3f0 rate 2M
+ 1538 sudo iwconfig wlx0022433ce3f0 rate 5M
+ 1539 sudo iwconfig wlx0022433ce3f0 rate 1M
+ 1540 clear
+ 1541 sudo iwconfig wlx0022433ce3f0 rate 2M
+ 1542 sudo iwconfig wlx0022433ce3f0 rate 5M
+ 1543 sudo iwconfig wlx0022433ce3f0 rate 11M
+ 1544 exit
+ 1545 sudo iwconfig wlx0022433ce3f0 rate 2M
+ 1546 sudo iwconfig wlx0022433ce3f0 rate 11M auto
+ 1547 clear
+ 1548 exit
+ 1549 git status
+ 1550 git add . -m "Adicionado o .gitignore"
+ 1551 git add .
+ 1552 clear
+ 1553 git commit -m "Adicionado o arquivo .gitignore"
+ 1554 git push origin master
+ 1555 git status
+ 1556 clear
+ 1557 git branch shell-script-chages
+ 1558 git checkout shell-script-chages
+ 1559 clear
+ 1560 ls
+ 1561 nano script_trybe.sh
+ 1562 git add script_trybe.sh
+ 1563 git commit -m "Alterado o arquivo script_trybe.sh"
+ 1564 git push origin shell-script-chages
+ 1565 clear
+ 1566 git branch
+ 1567 nano script_trybe.sh
+ 1568 clear
+ 1569 git add script_trybe.sh
+ 1570 git commit -m "Alteraçao no Arquivo script_trybe.sh"
+ 1571 git push -u origin shell-script-updates
+ 1572 git push -u origin shell-script-changes
+ 1573 clear
+ 1574 git branch
+ 1575 git push -u origin shell-script-chages
+ 1576 git branch
+ 1577 git branch shell-script-updates
+ 1578 nano script_trybe.sh
+ 1579 git add script_trybe.sh
+ 1580 clear
+ 1581 git commit -m "Nova alteraçao no arquivo script_trybe.sh"
+ 1582 git push -u origin shell-script-updates
+ 1583 git branch
+ 1584 git push origin master
+ 1585 git checkout shell-script-updates
+ 1586 git branch
+ 1587 nano script_trybe.sh
+ 1588 git push origin shell-script-updates
+ 1589 git add script_trybe.sh
+ 1590 git commit -m "Nova alteraçao no arquivo script_trybe.sh"
+ 1591 git push origin shell-script-updates
+ 1592 clear
+ 1593 git checkout master
+ 1594 git branch
+ 1595 git checkout shell-script-chages
+ 1596 clear
+ 1597 git branch
+ 1598 git branch -m shell-script-changes
+ 1599 git push origin shell-script-changes
+ 1600 clear
+ 1601 git branch -d shell-script-chages
+ 1602 ls
+ 1603 clear
+ 1604 git branch
+ 1605 git checkout master
+ 1606 git push origin master
+ 1607 git pull origin master
+ 1608 git add.
+ 1609 git push origin master
+ 1610 clear
+ 1611 git branch
+ 1612 git push origin shell-script-changes
+ 1613 git push origin shell-script-updates
+ 1614 git pull origin shell-script-updates
+ 1615 git push origin shell-script-updates
+ 1616 git branch
+ 1617 git checkout shell-script-updates
+ 1618 git pull origin shell-script-updates
+ 1619 git checkout shell-script-updates
+ 1620 git push origin shell-script-updates
+ 1621 clear
+ 1622 watch sensors
+ 1623 clear
+ 1624 exit
+ 1625 history |grep 1M
+ 1626 sudo iwconfig wlx0022433ce3f0 rate 11M auto
+ 1627 sudo iwconfig wlx0022433ce3f0 rate 5.5M auto
+ 1628 clear
+ 1629 exit
+ 1630 sudo iwconfig wlx0022433ce3f0 rate 5M auto
+ 1631 ping www.ig.com.br
+ 1632 exit
+ 1633 ping https://192.30.253.45/
+ 1634 ping 192.30.253.45:443
+ 1635 ping 192.30.253.45
+ 1636 clear
+ 1637 ping www.google.com
+ 1638 exit
+ 1639 watch sensors
+ 1640 $HOSTNAME
+ 1641 echo $HOSTNAME
+ 1642 echo $HOST
+ 1643 echo $HOSTNAME
+ 1644 clear
+ 1645 exit
+ 1646 tracert www.ig.com.br
+ 1647 tracer www.ig.com.br
+ 1648 tracert www.ig.com.br
+ 1649 clear
+ 1650 exit
+ 1651 getip
+ 1652 tracerout
+ 1653 traceroute
+ 1654 trace
+ 1655 clear
+ 1656 exit
+ 1657 ping www.g1.com.br
+ 1658 ping www.ig.com.br
+ 1659 clear
+ 1660 curl ifconfig.me
+ 1661 clear
+ 1662 exit
+ 1663 sudo iwconfig wlx0022433ce3f0 rate 5M auto
+ 1664 clear
+ 1665 exit
+ 1666 watch sensors
+ 1667 clear
+ 1668 exit
+ 1669 curl --version
+ 1670 clear
+ 1671 exit
+ 1672 traceroute e-tinet.com
+ 1673 sudo apt-get install traceroute
+ 1674 clear
+ 1675 traceroute e-tinet.com
+ 1676 clear
+ 1677 traceroute -I e-tinet.com
+ 1678 traceroute e-tinet.com
+ 1679 clear
+ 1680 ping www.g1.com.br
+ 1681 ping www.google.com.br
+ 1682 clear
+ 1683 nmap google.com.br
+ 1684 sudo apt-get install nmap
+ 1685 clear
+ 1686 nmap google.com.br
+ 1687 nmap -p 1-65535 google.com.br
+ 1688 nmap -p 1-65535 localhost
+ 1689 cler
+ 1690 clear
+ 1691 nmap --top-ports www.google.com.br
+ 1692 nmap -top-ports www.google.com.br
+ 1693 nmap --help
+ 1694 nmap --top-ports 8.8.8.8
+ 1695 nmap -sV localhost
+ 1696 nmap --top-ports 20 192.168.1.106
+ 1697 clear
+ 1698 nmap --top-ports www.google.com.br
+ 1699 nmap --top-ports 20 www.google.com.br
+ 1700 clear
+ 1701 netstat -a
+ 1702 clear
+ 1703 netstat -at
+ 1704 clear
+ 1705 netstat -au
+ 1706 netstat -l
+ 1707 clear
+ 1708 netstat -r
+ 1709 netstat -i
+ 1710 netstat -g
+ 1711 clear
+ 1712 netstat -anp | grep :80 | grep ESTABLISHED
+ 1713 netstat -anp
+ 1714 netstat -anp | grep :80 | grep CONECTADO
+ 1715 netstat -anp | grep :80 | grep ESTABELECIDA
+ 1716 netstat -anp | grep :80 | grep ESTABELECIDAcler
+ 1717 clear
+ 1718 whois computerhope.com
+ 1719 sudo apt-get install whois
+ 1720 whois computerhope.com
+ 1721 whois www.g1.com
+ 1722 whois www.g1.com.br
+ 1723 cler
+ 1724 clear
+ 1725 scp
+ 1726 clear
+ 1727 ls
+ 1728 pwd
+ 1729 cd unix_tests
+ 1730 ls
+ 1731 cd git
+ 1732 ls
+ 1733 cd trybe-course
+ 1734 ls
+ 1735 clear
+ 1736 whois Para instalar o traceroute
+ 1737 $ sudo apt-get install traceroute
+ 1738 Instalar nmap
+ 1739 $ sudo apt-get install nmap
+ 1740 $ S
+ 1741 Comando nstat para conexões ativas em uma determinada porta
+ 1742 $ netstat -anp | grep :80 | grep ESTABELECIDA
+ 1743 Para instalar o whois
+ 1744 $ sudo apt-get install whois
+ 1745 clear
+ 1746 whois amazon.com | echo >>consulta_amazondotcom.txt
+ 1747 ls
+ 1748 cat consulta_amazondotcom.txt
+ 1749 cat consulta_amazondotcom.txt
+ 1750 whois amazon.com
+ 1751 whois amazon.comclear
+ 1752 cler
+ 1753 clear
+ 1754 whois amazon.com | cat >> consulta_amazondotcom.txt
+ 1755 cat consulta_amazondotcom.txt
+ 1756 whois amazon.com.br | cat >> consulta_amazondotcomdotbr.txt
+ 1757 cat consulta_amazondotcomdotbr.txt
+ 1758 cat consulta_amazondotcom.txt
+ 1759 rm consulta_amazondotcom.txt
+ 1760 whois amazon.com | cat >> consulta_amazondotcom.txt
+ 1761 cat consulta_amazondotcom.txt
+ 1762 whois amazon.co.uk | cat >> consulta_amazondotcodotuk.txt
+ 1763 cat consulta_amazondotcodotuk.txt
+ 1764 clear
+ 1765 curl -X GET https://httpbin.org/anything
+ 1766 curl -X GET Marco https://httpbin.org/anything
+ 1767 curl -X GET https://httpbin.org/anything Marco
+ 1768 clear
+ 1769 curl --help
+ 1770 clear
+ 1771 curl --data "lastName = Barbosa" https://httpbin.org/anything
+ 1772 curl --data "lastName = Barbosa" https://httpbin.org/anything | cat curlpost.txt
+ 1773 ls
+ 1774 curl --data "lastName = Barbosa" https://httpbin.org/anything | cat curlpost.txt | cat curlpost.txt
+ 1775 curl --data "lastName = Barbosa" https://httpbin.org/anything | cat curlpost.txt && | cat curlpost.txt
+ 1776 curl --data "lastName = Barbosa" https://httpbin.org/anything | cat curlpost.txt || cat curlpost.txt
+ 1777 clear
+ 1778 curl --data "lastName = Barbosa" https://httpbin.org/anything
+ 1779 curl --data "lastName = Barbosa" https://httpbin.org/anything | echo
+ 1780 curl --data "lastName = Barbosa" https://httpbin.org/anything
+ 1781 clear
+ 1782 curl --data "lastName = Barbosa" https://httpbin.org/anything
+ 1783 curl GET --data "lastName = Barbosa" https://httpbin.org/anything
+ 1784 curl -G --data "firstName = Barbosa" https://httpbin.org/anything
+ 1785 clear
+ 1786 curl --help
+ 1787 curl --get "firstName = Barbosa" https://httpbin.org/anything
+ 1788 curl --data "lastName = Barbosa" https://httpbin.org/anything
+ 1789 cat curlpost.txt
+ 1790 cat >curlpost.txt
+ 1791 clear
+ 1792 cat curlpost.txt
+ 1793 curl --get "firstName = Barbosa" https://httpbin.org/anything
+ 1794 clear
+ 1795 curl --get "firstName = Marco" https://httpbin.org/anything
+ 1796 cat >curlget.txt
+ 1797 clear
+ 1798 curl --help
+ 1799 clear
+ 1800 ipconfig
+ 1801 ifconfig
+ 1802 clear
+ 1803 ping 192.168.0.21
+ 1804 cat >comandoping.txt
+ 1805 clear
+ 1806 nstat 192.168.0.21
+ 1807 nmap 192.168.0.21
+ 1808 nstat -ans 192.168.0.21
+ 1809 nstat -anp 192.168.0.21
+ 1810 nmap -anp 192.168.0.21
+ 1811 nmap -a 192.168.0.21
+ 1812 clear
+ 1813 netstat -a
+ 1814 clear
+ 1815 nmap 192.168.0.21 | cat >comando-nmap.txt
+ 1816 nmap 192.168.0.21
+ 1817 cat comando-nmap.txt
+ 1818 nstat 192.160.0.21 -at
+ 1819 nstat -at 192.168.0.21
+ 1820 nstat -at 192.168.0.21 | cat >comando-nstat.txt
+ 1821 cat comando-nstat.txt
+ 1822 clear
+ 1823 nstat -au 192.168.0.21 | cat >comando-nstat-udp.txt
+ 1824 nstat -au 192.168.0.2
+ 1825 nstat -au 192.168.0.21
+ 1826 nstat -au
+ 1827 clear
+ 1828 netstat -au
+ 1829 netstat -au 192.168.0.21
+ 1830 netstat -au 192.168.0.21 | cat >comando-nstat-udp.txt
+ 1831 cat comando-nstat-udp.txt
+ 1832 clear
+ 1833 netstat -a
+ 1834 netstat -a 192.168.0.21 |grep OUÇA
+ 1835 netstat -a 192.168.0.21 |grep OUÇA | cat comando-nstat-listen.txt
+ 1836 netstat -a 192.168.0.21 |grep OUÇA |cat comando-nstat-listen.txt
+ 1837 netstat -a 192.168.0.21 |grep OUÇA |cat >comando-nstat-listen.txt
+ 1838 clear
+ 1839 netstat -a 192.168.0.21
+ 1840 clear
+ 1841 nmap -Pn 192.168.0.21
+ 1842 ls
+ 1843 cat comandonstat.txt
+ 1844 cat comando-nstat.txt
+ 1845 nstat -at 192.168.0.21
+ 1846 mv comando-nstat.txt comando-nstat-tcp
+ 1847 mv comando-nstat-tcp comando-nstat-tcp.txt
+ 1848 ls
+ 1849 cear
+ 1850 clear
+ 1851 git
+ 1852 git master
+ 1853 git status
+ 1854 git origin
+ 1855 git status origin
+ 1856 clear
+ 1857 git --help
+ 1858 git status
+ 1859 git branch
+ 1860 clear
+ 1861 git add .
+ 1862 git commit -m "Exercicio Modulo 2 - Internet Parte 2"
+ 1863 git origin push
+ 1864 git --help
+ 1865 git push
+ 1866 history | grep git
+ 1867 git pull origin master
+ 1868 git status originr
+ 1869 git status origin
+ 1870 git status
+ 1871 history | grep git
+ 1872 git log
+ 1873 clear
+ 1874 history | grep git
+ 1875 git remote -v
+ 1876 git fech origin
+ 1877 git fetch origin master
+ 1878 git add .
+ 1879 git commit -m"Exercicios Modulo 2 - Internet Parte 2"
+ 1880 git commit -m "Exercicios Modulo 2 - Internet Parte 2"
+ 1881 git push origin master
+ 1882 git add .
+ 1883 git commit -m "Exercicios Modulo 2 - Internet Parte 2"
+ 1884 clear
+ 1885 curl -oX POST https://httpbin.org/anything -d 'lastname=Barbosa' curl-post.txt
+ 1886 curl -oX curl-post.txt POST https://httpbin.org/anything -d 'lastname=Barbosa'
+ 1887 ls
+ 1888 cat curlpost.txt
+ 1889 curl -oX curl-get.txt GET https://httpbin.org/anything -d 'firstname=Barbosa'
+ 1890 curl -oX curl-get.txt GET https://httpbin.org/anything -d 'firstname=Marco'
+ 1891 exit
+ 1892 curl -oX curl-put.txt PUT https://httpbin.org/anything -d 'firstname=Marco & lastname=Barbosa'
+ 1893 curl -oX curl-delete.txt DELETE https://httpbin.org/anything -d 'firstname & lastname'
+ 1894 clear
+ 1895 curl -o curl-put.txt --uploadfile script.sh https://httpbin.org/anything
+ 1896 curl --help
+ 1897 clear
+ 1898 curl -oX curl-put.txt PUT https://httpbin.org/anything -d 'firstname=Marco'
+ 1899 clear
+ 1900 curl -X POST -H "Content-Type: application/json" -d {"escola": "Trybe"} https://httpbin.org/anything
+ 1901 curl -X POST -H "Content-Type: application/json" {"escola": "Trybe"} https://httpbin.org/anything
+ 1902 curl -X POST -H "Content-Type: application/json":{"escola": "Trybe"} https://httpbin.org/anything
+ 1903 clear
+ 1904 curl -d '{"escola": "Trybe"}' -H "Content-Type: application/json" -X POST https://httpbin.org/anything
+ 1905 curl -od curl-json.txt '{"escola": "Trybe"}' -H "Content-Type: application/json" -X POST 
+https://httpbin.org/anything
+ 1906 ls
+ 1907 curl -o curl-jason.txt -d '{"escola": "Trybe"}' -H "Content-Type: application/json" -X POST 
+https://httpbin.org/anything
+ 1908 cat curl-jason.txt
+ 1909 git pull origin
+ 1910 git log
+ 1911 git status origin
+ 1912 git remote -v
+ 1913 git add .
+ 1914 git commit -m "Exercicios Modulo 2 - Internet Parte 2"
+ 1915 git push origin
+ 1916 clear
+ 1917 git status
+ 1918 git status origin
+ 1919 git log origin
+ 1920 git --help
+ 1921 git fetch origin
+ 1922 git status
+ 1923 git branch
+ 1924 git branch master status
+ 1925 git master status
+ 1926 git status master
+ 1927 git -V origin
+ 1928 git remote -v
+ 1929 git pull origin
+ 1930 clear
+ 1931 curl -X POST https://httpbin.org/anything -d 'lastname=Barbosa&firstname-Marco'
+ 1932 curl -X POST https://httpbin.org/anything -d 'lastname=Barbosa&firstname=Marco'
+ 1933 clera
+ 1934 clear
+ 1935 curl -X PUT https://httpbin.org/anything -d 'lastname=Barbosa&firstname=Marco'
+ 1936 ls
+ 1937 curl -o curlput.txt -X PUT https://httpbin.org/anything -d 'lastname=Barbosa&firstname=Marco'
+ 1938 ls
+ 1939 cat curlput.txt
+ 1940 clear
+ 1941 curl -X GET https://httpbin.org/anything -d 'firstname=Marco'
+ 1942 curl -o curlget.txt -X GET https://httpbin.org/anything -d 'firstname=Marco'
+ 1943 cat curlget.txt
+ 1944 curl -o curlget.txt -X GET https://httpbin.org/anything -d 'firstname=Marco'clear
+ 1945 clear
+ 1946 curl -o curlget.txt -X GET https://httpbin.org/anything -d 'firstname=Marco'
+ 1947 cat curlget.txt
+ 1948 curl -o curlpost.txt -X POST https://httpbin.org/anything -d 'lastname=Barbosa'
+ 1949 cat curlpost.txt
+ 1950 clear
+ 1951 curl -o curlput.txt -X PUT https://httpbin.org/anything -d 'lastname=Barbosa&firstname=Marco'
+ 1952 cat curlput.txt
+ 1953 curl -X DELETE https://httpbin.org/anything -d 'lastname&firstname'
+ 1954 clear
+ 1955 curl -o curldelete.txt -X DELETE https://httpbin.org/anything -d 'lastname&firstname'
+ 1956 cat curldelete.txt
+ 1957 clear
+ 1958 git add .
+ 1959 git push origin
+ 1960 git add .
+ 1961 git commit -m "Exercicios Modulo 2 - Internet Parte 2"
+ 1962 git push origin
+ 1963 git fetch origin
+ 1964 git pull origin
+ 1965 git add .
+ 1966 git commit -m "Exercicios Modulo 2 - Internet Parte 2"
+ 1967 clear
+ 1968 git push origin
+ 1969 git add .
+ 1970 git commit -m "Exercicios Modulo 2 - Internet Parte 2"
+ 1971 git pull origin
+ 1972 clear
+ 1973 exit
+ 1974 git pull origin master
+ 1975 ls
+ 1976 cd unix_tests/
+ 1977 ls
+ 1978 cd git
+ 1979 ls
+ 1980 cd trybe-course/
+ 1981 clear
+ 1982 ls
+ 1983 git -V origin
+ 1984 history | grep git -V
+ 1985 history | grep "git -V"
+ 1986 history | grep "git"
+ 1987 clear
+ 1988 git remote -V
+ 1989 git remote -v
+ 1990 clear
+ 1991 git remote -v
+ 1992 git add .
+ 1993 git commit -m "Exercicios Modulo 2 - Internet Parte 2"
+ 1994 git push origin master
+ 1995 clear
+ 1996 exit
+ 1997 history | grep bash
+ 1998 history | grep bashrc
+ 1999 history | grep 5M
+ 2000 sudo iwconfig wlx0022433ce3f0 rate 5M auto
+ 2001 sudo iwconfig wlx0022433ce3f0 rate 6M auto
+ 2002 clear
+ 2003 nano ~/. bashrc.sh
+ 2004 ls -al ~/.
+ 2005 nano ~/. bashrc
+ 2006 clear
+ 2007 history | nano

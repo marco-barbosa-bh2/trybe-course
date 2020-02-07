@@ -1,0 +1,130 @@
+sudo iwconfig wlx0022433ce3f0 rate 5.5M auto
+
+# HTML -  Desafio 1
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Desafio: Escreva um Poema </title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    <h1>Desafio: Escreva um Poema</h1>
+    <h2>Diário</h2>
+    <p>
+    Tudo começou quando o sol me abraçou <br>
+    Dizendo bom dia,<br>
+    Como vai a vida?<br>
+    E disse-lhe: do jeito que eu queria! <br>
+    <br>
+    Café quente na mesa,<br>
+    Uma página em branco,<br>
+    Um sorriso para quebrar a tristeza <br>
+    De quem no caminho encontro.<br>
+    <br>
+    
+    </p>
+    
+    
+    </body>
+</html>
+
+Link:https://www.khanacademy.org/hour-of-code/spin-off-of-challenge-write-a-poem/4726000330489856
+
+# Destaques em textos
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: You can learn text tags</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <p>
+        Nobody’s born <em>smart</em>. We all start at 0. Can’t talk, can’t walk, <strong>certainly can’t do algebra.</strong><br>
+        Adding, reading, writing, riding a bike. Nobody’s good at anything at first.<br>
+        There was a time when Einstein couldn’t <strong>count to 10.</strong><br>
+        And Shakespeare had to learn his <em>ABCs</em> just like the rest of us.<br>
+        Thankfully, we are born to learn.<br>
+        Slowly. Surely. You stumble, slip, crawl, fall and fail and fall.<br>
+        Frustrating. Confusing. Trying. Struggling.<br>
+        Until one day, you walk.<br>
+        One foot in front of the other. One idea on top of the next.<br>
+        Each wrong answer making your brain a little bit stronger.<br>
+        Failing is just another word for growing. And you keep going.<br>
+        This. is. learning.<br>
+        It’s not that you don’t get it. <br>
+        You just don’t get it, yet.
+        Because the most beautiful, complex concepts in the whole universe<br>
+        are built on basic ideas that anyone, anywhere can understand.<br>
+        Whoever you are, wherever you are.<br>
+        </p>
+        <p>
+        You only have to know one thing:<br>
+        <strong><em>You</em> <em>can</em> <em>learn</em> <em>anything.</em></strong>
+        </p>
+    </body>
+</html>
+
+# Listas
+
+<!DOCTYPE HTML>
+
+<html>
+
+    <head>
+
+        <title>Desafio: Sua lista de aprendizados</title>
+
+        <meta charset="utf-8">
+
+    </head>
+
+    <body>
+    <p>O que eu aprendi nessa curso de HTML foi:<br> </p>
+        <ul>
+            <li>Estrutura do HTML</li>
+            <li>Cabeçalho</li>
+            <li>Títulos</li>
+            <li>Parágrafos</li>
+            <li>Destaques</li>
+            <li>É claro, listas</li>
+        </ul>
+        <p>Os três principais componentes de página da web são</p><br>
+        
+        <ol>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            
+        </ol>
+        
+        
+    </body>
+
+</html>
+
+
+# Imagens
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Desafio: A foto de férias perfeita</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>A viagem perfeita</h1>
+        
+        <p>Eu gostaria de ver cenas como essa...</p>
+        
+        <img src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" alt="Vista de baia com ilha ao fundo. Coqueiro e algumas vegetações na frente." width="300">
+        
+        <p>E animais como...</p>
+        <img src="https://www.kasandbox.org/programming-images/animals/birds_rainbow-lorakeets.png" alt="Pássaros Coloridos tipo Maritacas." width="300">
+        
+        <p>E comer pratos como...</p>
+        <img src="https://www.kasandbox.org/programming-images/food/pasta.png" alt="Macarrão Gourmet" width="300">
+        
+    </body>
+</html>
+
